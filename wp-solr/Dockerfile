@@ -35,3 +35,4 @@ CMD ["/opt/solr/bin/solr", "-f"]
 ## persistent volumes
 #    volumes:
 #       - ./solr_data:/opt/solr/server/solr/mycores
+#
